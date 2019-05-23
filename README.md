@@ -4,3 +4,5 @@ The project is based on [BitmapData.js](https://github.com/martinffx/bitmapdata.
 
 ## install
     npm install node-bitmapdata
+## example
+    https://kevinchen2046.github.io/node-bitmapdata/
