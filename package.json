@@ -1,0 +1,25 @@
+{
+  "name": "node-bitmapdata",
+  "version": "1.0.0",
+  "description": "a As3 BitmapData API For node!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchen2046/node-BitmapData.git"
+  },
+  "keywords": [
+    "BitmapData"
+  ],
+  "author": "kevinchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchen2046/node-BitmapData/issues"
+  },
+  "homepage": "https://github.com/kevinchen2046/node-BitmapData#readme",
+  "dependencies": {
+    "canvas": "^2.5.0"
+  }
+}
