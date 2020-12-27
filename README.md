@@ -1,5 +1,5 @@
 # node-bitmapData
-    node下模仿FLash的BitmapData类
+还原ActionScript API 的 BitmapData类
 The project is based on [BitmapData.js](https://github.com/martinffx/bitmapdata.js) modification.
 
 ## install 安装
